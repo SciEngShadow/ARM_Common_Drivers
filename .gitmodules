@@ -1,0 +1,6 @@
+[submodule "ARM_Shebl"]
+	path = ARM_Shebl
+	url = https://github.com/SciEngShadow/Shebl_ARM_Drivers.git
+[submodule "ARM_Gomaa"]
+	path = ARM_Gomaa
+	url = https://github.com/SciEngShadow/Gomaa_ARM_Drivers.git
